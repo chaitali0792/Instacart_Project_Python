@@ -4,4 +4,4 @@ The Instacart stakeholders were most interested in the variety of customers in t
 
 To handle this scenario, I performed an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. My analysis using Python would helped them to ensure Instacart targets the right customer profiles with the appropriate products.
 
-Data source :[Customers Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
+Data source : [Customers Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
